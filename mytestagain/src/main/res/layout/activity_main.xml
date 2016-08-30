@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.mytestagain.MainActivity">
+
+    <com.example.mytestagain.TestGroup
+        android:layout_width="500dp"
+        android:layout_height="500dp">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="#223344"
+            android:src="@mipmap/ic_launcher"/>
+
+    </com.example.mytestagain.TestGroup>
+</RelativeLayout>
